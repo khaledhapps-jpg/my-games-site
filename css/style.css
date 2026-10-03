@@ -307,3 +307,14 @@ ul{ list-style: none; }
   .nav-toggle{ display:flex; }
   .hero{ padding-top: 140px; }
 }
+
+/* ===== Social icons ===== */
+.social-row{ display:flex; gap:12px; justify-content:center; flex-wrap:wrap; }
+.social{ width:42px; height:42px; border-radius:12px; display:inline-flex; align-items:center; justify-content:center; color:#fff; transition: transform .2s, box-shadow .2s; }
+.social svg{ width:22px; height:22px; }
+.social:hover{ transform: translateY(-3px); box-shadow:0 8px 20px rgba(0,0,0,.35); }
+.social-row-lg{ margin-top:22px; } .social-row-lg .social{ width:50px; height:50px; } .social-row-lg .social svg{ width:26px; height:26px; }
+.s-x{ background:#000; border:1px solid rgba(255,255,255,.25); }
+.s-ig{ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%); }
+.s-yt{ background:#ff0000; }
+.s-tt{ background:#000; border:1px solid rgba(255,255,255,.25); box-shadow: -2px -2px 0 #25f4ee, 2px 2px 0 #fe2c55; }
