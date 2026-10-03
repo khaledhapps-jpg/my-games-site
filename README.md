@@ -1,4 +1,4 @@
-# موقع MYGAMES 🎮
+# موقع khaledhapps 🎮
 
 موقع إلكتروني ثابت (Static Website) بسيط وجاهز لعرض تطبيقات الألعاب الستة الخاصة بك من متجر Google Play.
 
