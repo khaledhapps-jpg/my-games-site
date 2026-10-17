@@ -318,3 +318,4 @@ ul{ list-style: none; }
 .s-ig{ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%); }
 .s-yt{ background:#ff0000; }
 .s-tt{ background:#000; border:1px solid rgba(255,255,255,.25); box-shadow: -2px -2px 0 #25f4ee, 2px 2px 0 #fe2c55; }
+.s-lt{ background:#43e660; color:#111; }
