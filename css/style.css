@@ -319,3 +319,15 @@ ul{ list-style: none; }
 .s-yt{ background:#ff0000; }
 .s-tt{ background:#000; border:1px solid rgba(255,255,255,.25); box-shadow: -2px -2px 0 #25f4ee, 2px 2px 0 #fe2c55; }
 .s-lt{ background:#43e660; color:#111; }
+
+
+/* ===== Roblox section + states ===== */
+.roblox{ background: var(--bg); }
+.roblox .game-card:hover{ border-color: rgba(52,224,201,.45); }
+.roblox-btn{ background: linear-gradient(120deg, #e2362f, #ff7a3d); }
+.roblox-btn:hover{ box-shadow: 0 8px 20px rgba(226,54,47,.45); }
+.rb-icon{ width:18px; height:18px; }
+.play-btn.soon{ opacity:.6; cursor:default; background: rgba(255,255,255,.12); }
+.play-btn.soon:hover{ transform:none; box-shadow:none; }
+
+.game-info h3 .en{ display:block; font-size:.82rem; font-weight:500; color:var(--muted); letter-spacing:.3px; margin-top:2px; text-align:right; }
