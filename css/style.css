@@ -394,5 +394,5 @@ ul{ list-style: none; }
 /* ===== Featured video ===== */
 .featured{ padding: 60px 0 10px; }
 .featured-video{ max-width: 860px; margin: 0 auto; aspect-ratio:16/9; border-radius: var(--radius); overflow:hidden; background:#000; box-shadow: 0 20px 60px rgba(124,58,237,.35); border:1px solid rgba(255,255,255,.1); }
-.featured-video iframe{ width:100%; height:100%; border:0; display:block; }
+.featured-video iframe, .featured-video video{ width:100%; height:100%; border:0; display:block; }
 .featured-actions{ display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin-top:24px; }
